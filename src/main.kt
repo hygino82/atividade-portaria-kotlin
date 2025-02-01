@@ -1,5 +1,5 @@
-import entidades.Portaria
+import control.Portaria
 
 fun main() {
-    Portaria().controle()
+    Portaria()
 }
